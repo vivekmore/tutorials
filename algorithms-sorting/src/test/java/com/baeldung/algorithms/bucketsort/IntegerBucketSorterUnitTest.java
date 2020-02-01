@@ -1,6 +1,5 @@
-package com.baeldung.bucketsort;
+package com.baeldung.algorithms.bucketsort;
 
-import com.baeldung.bucketsort.IntegerBucketSorter;
 import org.junit.Before;
 import org.junit.Test;
 
